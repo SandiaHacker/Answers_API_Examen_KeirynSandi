@@ -1,0 +1,6 @@
+@Answers_API_Examen_KeirynSandi_HostAddress = http://localhost:5296
+
+GET {{Answers_API_Examen_KeirynSandi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
